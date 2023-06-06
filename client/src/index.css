@@ -11,7 +11,7 @@ body {
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url('../images/background3.jpg') no-repeat center/cover;
+  /* background: url('../images/background3.jpg') no-repeat center/cover; */
 }
 
 .gradient-bg-welcome {
